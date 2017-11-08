@@ -1,0 +1,14 @@
+{
+  "name": "hello-electron",
+  "version": "1.0.0",
+  "description": "hello-electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "sunthx",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.7.9"
+  }
+}
